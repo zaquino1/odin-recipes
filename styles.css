@@ -1,0 +1,28 @@
+
+body {background-color:bisque;}
+
+h1{
+    color: chocolate;
+    background-color: rgb(55, 0, 255);
+    text-align: center;
+    font-size: 80px;
+    font-family: cursive
+    ;}
+    
+    div.tiramisu{
+        background-color: aqua;
+    }
+    
+    .lasagna,.tiramisu{
+        background-color: white;
+        font-size: 50px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    
+    #meatballs{
+        background-color: rgb(128, 0, 109);
+        font-size: 60px;
+        font-style: italic;
+        color:chartreuse;
+    }
