@@ -1,28 +1,43 @@
 
-body {background-color:bisque;}
+body {background-color:bisque;
+margin: 0 auto;
+}
 
 h1{
-    color: chocolate;
-    background-color: rgb(55, 0, 255);
+    color:peachpuff;
     text-align: center;
+    border: 48px  solid red;
+    border-style:outset;
+    background-color:crimson;
     font-size: 80px;
-    font-family: cursive
+    font-family:'Times New Roman', Times, serif
     ;}
     
     div.tiramisu{
-        background-color: aqua;
+        background-color:rgb(3, 174, 174);
+        margin: 16px 24px;
+        border: 30px solid darkcyan;
+        border-style: ridge;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
     }
     
     .lasagna,.tiramisu{
-        background-color: white;
+        border: 30px solid rgb(172, 82, 82);
+        border-style:ridge;
+        margin: 16px 24px;
+        background-color:pink;
         font-size: 50px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
     
     
     #meatballs{
-        background-color: rgb(128, 0, 109);
+        margin: 16px 24px;
+        border: 30px solid darkgreen;
+        border-style:ridge;
+        background-color:forestgreen;
         font-size: 60px;
         font-style: italic;
-        color:chartreuse;
+      
     }
