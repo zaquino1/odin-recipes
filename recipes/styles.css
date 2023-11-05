@@ -1,8 +1,11 @@
-head{text-align: center;}
 body{
     text-align: center;
+    margin: 0 auto;
     background-color:wheat;
-    color: rgb(173, 152, 34);
+    border: 10px solid darkseagreen;
+    border-style: dotted;
+    padding: 10px;
+    color: saddlebrown;
     font-size:xx-large;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -12,20 +15,48 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 10px  solid darkgoldenrod;
+    border-style: ridge;
+}
+p{
+    background-color: azure;
+    border: 10px solid darkgrey;
+    border-style: dotted;
+    text-align: justify;
+    margin: 10px 20px;
+    padding:10px;
 }
 
 h1{
     text-align: center;
-    color: cornflowerblue;
+    border: 20px solid red;
+    border-style:dotted;
+    background-color:brown;
+    color:antiquewhite;
 }
 ul{
     text-align: justify;
+    background-color: beige;
+    border:10px solid sandybrown;
+    border-style: dotted;
+    padding: 20px;
+    margin: 20px;
 }
 li{
+    list-style: none;
     text-align: justify;
+    background-color: beige;
+    border: 10px solid darkgoldenrod;
+    padding: 20px;
+    margin:5px;
+    border-style:hidden;
     line-height:  40px;
+    
 }
 h2{
+    background-color:cornflowerblue;
+    border: 20px solid royalblue;
+    border-style: dotted;
     text-align: center;
-    color: tomato;
+    color:beige;
 }
